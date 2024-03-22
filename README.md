@@ -11,7 +11,7 @@
 | 이름   | 역할             | 링크                                    |
 | ------ | ---------------- | --------------------------------------- |
 | 윤보영 | 팀장, 프론트엔드 | [깃허브](https://github.com/BoyoungYun) |
-| 김남현 | 프론트엔드       | [깃허브](https://github.com/NamhyunK) |
+| 김남현 | 프론트엔드       | [깃허브](https://github.com/IMyMeMi-ne) |
 | 손영진 | 프론트엔드       |  [깃허브](https://github.com/sonprogrammer)  |
 | 소유빈 | 백엔드           | [깃허브](https://github.com/kanujoa)    |
 | 임종승 | 백엔드           |   [깃허브](https://github.com/limjongseung)                                      |
